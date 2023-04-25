@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	
+
 	int num, auxiliar;
 	int soma = 0;
 	
